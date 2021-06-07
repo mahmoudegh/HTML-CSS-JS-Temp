@@ -23,7 +23,7 @@ body {
   top: 0;
   background-color: #fff;
   width: 200px;
-  z-index: 1000;
+  z-index: 2000;
   min-height: 100vh;
   transition: 0.5s;
   border: 1px solid #ccc;
